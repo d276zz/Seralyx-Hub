@@ -18,12 +18,11 @@ local function generateRandomString(length)
 end
 
 local Custom = {} do
-    Custom.Black = Color3.fromRGB(10, 10, 10)       -- Noir profond
-    Custom.DarkGray = Color3.fromRGB(45, 45, 45)    -- Gris foncé
-    Custom.Gray = Color3.fromRGB(90, 90, 90)        -- Gris moyen
-    Custom.LightGray = Color3.fromRGB(170, 170, 170)-- Gris clair
-    Custom.White = Color3.fromRGB(245, 245, 245)    -- Blanc doux
-
+    Custom.ColorRGB = Color3.fromRGB(128, 128, 128)
+    Custom.AccentColor = Color3.fromRGB(0, 0, 0)
+    Custom.DarkBlue = Color3.fromRGB(255, 255, 255)
+    Custom.BackgroundDark = Color3.fromRGB(0, 180, 255)
+    Custom.FrameDark = Color3.fromRGB(255, 255, 255)
 
 
 
