@@ -19,10 +19,10 @@ end
 
 local Custom = {} do
     Custom.ColorRGB = Color3.fromRGB(128, 128, 128)
-    Custom.AccentColor = Color3.fromRGB(255, 255, 255)
-    Custom.DarkBlue = Color3.fromRGB(0, 0, 0)
-    Custom.BackgroundDark = Color3.fromRGB(0, 180, 255)
-    Custom.FrameDark = Color3.fromRGB(255, 255, 255)
+    Custom.AccentColor = Color3.fromRGB(0, 180, 255)
+    Custom.DarkBlue =  Color3.fromRGB(255, 255, 255)
+    Custom.BackgroundDark = Color3.fromRGB(255, 255, 255) 
+    Custom.FrameDark = Color3.fromRGB(0, 0, 0)
 
 
 
